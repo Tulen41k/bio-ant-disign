@@ -1,0 +1,107 @@
+body {
+  background-color: #f7e0b2;
+  margin: 2.5%;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+Image {
+  width: 400px;
+  height: 400px;
+}
+
+.box-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.information-box {
+  display: flex;
+  flex-direction: row;
+  min-width: 70%;
+}
+
+.info {
+  padding: 8%;
+}
+
+.bio {
+  margin-top: 2%;
+}
+
+.pad {
+  width: 50%;
+  height: 100%;
+  background-color: rgb(197, 141, 72);
+  padding: 3%;
+  border-radius: 10px;
+}
+
+.range {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  height: 5%;
+}
+
+.range-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bg {
+  background-color: #dfd1b7;
+}
+
+.color {
+  background-color: rgb(150, 91, 35);
+}
+
+.pers {
+  width: 15%;
+}
+
+.introvert {
+  width: 11%;
+}
+
+.extrovert {
+  width: 89%;
+}
+
+.intuition {
+  width: 74%;
+}
+
+.realism {
+  width: 26%;
+}
+
+.logic {
+  width: 44%;
+}
+
+.principles{
+  width: 56%;
+}
+
+.planning {
+  width: 58%;
+}
+
+.search {
+  width: 42%;
+}
+
+.confidence {
+  width: 24%;
+}
+
+.caution {
+  width: 76%;
+}
